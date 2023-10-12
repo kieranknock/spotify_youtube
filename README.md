@@ -1,8 +1,6 @@
 Kieran Knock
 September 10, 2023
 
-This text document contains explanations of the following data files in this folder as well a data dictionary and a link to the original data set used in this project.
-
 Link to original dataset: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
 /data
